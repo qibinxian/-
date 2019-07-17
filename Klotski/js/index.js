@@ -142,7 +142,7 @@ Klotski.loadBtn = function(){
     Laya.stage.addChild(this.strategy);
     this.strategy.on(this.Event.MOUSE_DOWN, this,function(){
         new Confirm({
-            text : '暂无攻略，敬请期待',
+            text : '联系作者微信q411799907，并发送一元红包',
             left : '取消',
             right : '确认',
             width : 500,
