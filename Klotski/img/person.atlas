@@ -1,1 +1,212 @@
-{"frames":{"General1_1.jpg":{"frame":{"h":288,"idx":0,"w":144,"x":0,"y":289},"sourceSize":{"h":288,"w":144},"spriteSourceSize":{"x":0,"y":0}},"General1_2.jpg":{"frame":{"h":288,"idx":0,"w":144,"x":145,"y":289},"sourceSize":{"h":288,"w":144},"spriteSourceSize":{"x":0,"y":0}},"General1_3.jpg":{"frame":{"h":288,"idx":0,"w":144,"x":289,"y":0},"sourceSize":{"h":288,"w":144},"spriteSourceSize":{"x":0,"y":0}},"General1_4.jpg":{"frame":{"h":288,"idx":0,"w":144,"x":290,"y":289},"sourceSize":{"h":288,"w":144},"spriteSourceSize":{"x":0,"y":0}},"General1_5.jpg":{"frame":{"h":288,"idx":0,"w":144,"x":434,"y":0},"sourceSize":{"h":288,"w":144},"spriteSourceSize":{"x":0,"y":0}},"General2_1.jpg":{"frame":{"h":144,"idx":0,"w":288,"x":435,"y":289},"sourceSize":{"h":144,"w":288},"spriteSourceSize":{"x":0,"y":0}},"General2_2.jpg":{"frame":{"h":144,"idx":0,"w":288,"x":435,"y":434},"sourceSize":{"h":144,"w":288},"spriteSourceSize":{"x":0,"y":0}},"General2_3.jpg":{"frame":{"h":144,"idx":0,"w":288,"x":579,"y":0},"sourceSize":{"h":144,"w":288},"spriteSourceSize":{"x":0,"y":0}},"General2_4.jpg":{"frame":{"h":144,"idx":0,"w":288,"x":724,"y":145},"sourceSize":{"h":144,"w":288},"spriteSourceSize":{"x":0,"y":0}},"General2_5.jpg":{"frame":{"h":144,"idx":0,"w":288,"x":724,"y":290},"sourceSize":{"h":144,"w":288},"spriteSourceSize":{"x":0,"y":0}},"Principal.jpg":{"frame":{"h":288,"idx":0,"w":288,"x":0,"y":0},"sourceSize":{"h":288,"w":288},"spriteSourceSize":{"x":0,"y":0}},"soldiers1.jpg":{"frame":{"h":144,"idx":0,"w":144,"x":868,"y":0},"sourceSize":{"h":144,"w":144},"spriteSourceSize":{"x":0,"y":0}}},"meta":{"image":"person.png","prefix":"person/"}}
+{
+    "frames": {
+        "General1_1.jpg": {
+            "frame": {
+                "h": 288,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 289
+            },
+            "sourceSize": {
+                "h": 288,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General1_2.jpg": {
+            "frame": {
+                "h": 288,
+                "idx": 0,
+                "w": 144,
+                "x": 145,
+                "y": 289
+            },
+            "sourceSize": {
+                "h": 288,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General1_3.jpg": {
+            "frame": {
+                "h": 288,
+                "idx": 0,
+                "w": 144,
+                "x": 289,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 288,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General1_4.jpg": {
+            "frame": {
+                "h": 288,
+                "idx": 0,
+                "w": 144,
+                "x": 290,
+                "y": 289
+            },
+            "sourceSize": {
+                "h": 288,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General1_5.jpg": {
+            "frame": {
+                "h": 288,
+                "idx": 0,
+                "w": 144,
+                "x": 434,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 288,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General2_1.jpg": {
+            "frame": {
+                "h": 144,
+                "idx": 0,
+                "w": 288,
+                "x": 435,
+                "y": 289
+            },
+            "sourceSize": {
+                "h": 144,
+                "w": 288
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General2_2.jpg": {
+            "frame": {
+                "h": 144,
+                "idx": 0,
+                "w": 288,
+                "x": 435,
+                "y": 434
+            },
+            "sourceSize": {
+                "h": 144,
+                "w": 288
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General2_3.jpg": {
+            "frame": {
+                "h": 144,
+                "idx": 0,
+                "w": 288,
+                "x": 579,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 144,
+                "w": 288
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General2_4.jpg": {
+            "frame": {
+                "h": 144,
+                "idx": 0,
+                "w": 288,
+                "x": 724,
+                "y": 145
+            },
+            "sourceSize": {
+                "h": 144,
+                "w": 288
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "General2_5.jpg": {
+            "frame": {
+                "h": 144,
+                "idx": 0,
+                "w": 288,
+                "x": 724,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 144,
+                "w": 288
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "Principal.jpg": {
+            "frame": {
+                "h": 288,
+                "idx": 0,
+                "w": 288,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 288,
+                "w": 288
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "soldiers1.jpg": {
+            "frame": {
+                "h": 144,
+                "idx": 0,
+                "w": 144,
+                "x": 868,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 144,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "person.png",
+        "prefix": "person/"
+    }
+}
